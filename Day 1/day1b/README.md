@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# React Profile Card
+
+![image](https://user-images.githubusercontent.com/45294902/120715944-f7901500-c4e2-11eb-909a-75c277dfb030.png)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
